@@ -11,6 +11,10 @@ function Emoji() {
     setMood(mood === "happy" ? "sad" : "happy");
   };
 
+  // This is conditional expression that checks the value of the mood.
+  // If mood is equal to "happy", it returns a span element with the smiley face emoji.
+  // If mood is not equal to "happy", it returns a span element with the 'sad' face emoji.
+
   return (
     <div>
       {mood === "happy" ? <span>😊</span> : <span>😔</span>}
