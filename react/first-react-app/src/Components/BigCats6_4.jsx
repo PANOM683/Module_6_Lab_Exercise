@@ -13,6 +13,7 @@ const BigCats = () => {
       image: "cheetah.jpg",
     },
     { id: 2, name: "Cougar", latinName: "Puma concolor", image: "cougar.jpg" },
+
     { id: 3, name: "Jaguar", latinName: "Panthera onca", image: "jaguar.jpg" },
     {
       id: 4,
@@ -20,6 +21,7 @@ const BigCats = () => {
       latinName: "Panthera pardus",
       image: "leopard.jpg",
     },
+
     { id: 5, name: "Lion", latinName: "Panthera leo", image: "lion.jpg" },
     {
       id: 6,

@@ -1,7 +1,7 @@
 // Lab Exercise 6.2 - SingleCat.jsx
 
 import React from "react";
-import "./SingleCat.css";
+import "../Components/SingleCat.css";
 
 // I used cat object to display the name, latin name, and image of each cat.
 // alt attribute to the img tag to provide text description of the image.

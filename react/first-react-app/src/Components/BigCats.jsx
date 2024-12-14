@@ -1,14 +1,14 @@
 // Lab Exercise 6.2 - BigCats
 
 import React from "react";
-import SingleCat from "./SingleCat";
-import cheetah from "./cheetah.jpg";
-import cougar from "./cougar.jpg";
-import jaguar from "./jaguar.jpg";
-import leopard from "./leopard.jpg";
-import lion from "./lion.jpg";
-import snowLeopard from "./snow-leopard.jpg";
-import tiger from "./tiger.jpg";
+import SingleCat from "../Components/SingleCat";
+import cheetah from "../Images/cheetah.jpg";
+import cougar from "../Images/cougar.jpg";
+import jaguar from "../Images/jaguar.jpg";
+import leopard from "../Images/leopard.jpg";
+import lion from "../Images/lion.jpg";
+import snowLeopard from "../Images/snow-leopard.jpg";
+import tiger from "../Images/tiger.jpg";
 
 // I added a id property to each cat object in the cats array.
 
