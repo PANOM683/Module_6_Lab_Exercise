@@ -1,9 +1,10 @@
 -------This is Module 6 Lab Exercise. 
 
 1. Open react/first-react-app folder to view the content.
-2. Then open the src folder to see main content of moudle 6 lab.
-3. Then View the App.jsx file to access all exercise code. 
-4. Open terminal, go to the react/first-react-app directory, then run npm run dev to open local host.(Save every time before Running any code) (all files)
+2. Then open the src folder to see main content of moudle 6 lab in App.jsx.
+3. Then the Components Folder which are the main components files of 6.1, 6.2, 6.3, 6.4.
+4. Images folder is only for Exercise 6.2.
+5. Open terminal, go to the react/first-react-app directory, then run npm run dev to open local host.(Save every time before Running any code) (all files)
 
 -------Lab Exercise 6.1 - Greeting Component 
 
@@ -17,15 +18,15 @@
 
 1. The file is BigCats.jsx and SingleCat.jsx
 2. I created BigCats component, which is cats array to display a style list of cats with a unique id and fix the warning about keys. Also I created a SingleCat component for rendering each individual cat and add an image property for each one.
-3. 
-4.  So lab 6.2 to work on line 28 and line 41, you will simply remove two comment looks like this /* - */ to able to work code and save. (Once finish simply put comments back for next code to work).
+3. Also SignleCat CSS file is related to 6.2. I added beacuse to maintain images and make UI Suitable.
+4. So lab 6.2 to work on line 28 and line 41, you will simply remove two comment looks like this /* - */ to able to work code and save. (Once finish simply put comments back for next code to work).
 
 -------Lab Exercise 6.3 - Emoji Component
 
 1. The file is Emoji.jsx
 2. I created an Emoji component, which initially renders a happy emoji and 'Change Mood' button in the component to switch between 2 emojis when clicked.
 3. When clicked "Change Mood", it will change to happy and sad.
-4.  So lab 6.3 to work on line 45 and line 58, you will simply remove two comment looks like this /* - */ to able to work code and save. (Once finish simply put comments back for next code to work).
+4. So lab 6.3 to work on line 45 and line 58, you will simply remove two comment looks like this /* - */ to able to work code and save. (Once finish simply put comments back for next code to work).
 
 -------Lab Exercise 6.4 - BigCats6_4 and SingleCat6_4 
 
